@@ -1,0 +1,13 @@
+{
+  "name": "html10n.js",
+  "homepage": "https://github.com/marcelklehr/html10n.js",
+  "_release": "9005727167",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9005727167357cecf22bd4fea642735334a48d42"
+  },
+  "_source": "https://github.com/marcelklehr/html10n.js.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/marcelklehr/html10n.js.git"
+}

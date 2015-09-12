@@ -1,0 +1,24 @@
+{
+  "name": "globalization",
+  "version": "0.0.0",
+  "authors": [
+    "Leonardo Terrão <leonardoterrao@gmail.com>"
+  ],
+  "main": [
+    "www/js/index.js",
+    "www/index.html",
+    "www/css/index.css"
+  ],
+  "description": "Simple example to use internationalization with cordova.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html10n.js": "https://github.com/marcelklehr/html10n.js.git"
+  }
+}

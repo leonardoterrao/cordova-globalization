@@ -1,0 +1,14 @@
+{
+   "en" : {
+      "welcome" : "Welcome",
+      "english" : "English",
+      "french" : "French",
+      "alert" : "It's me!"
+   },
+   "fr" : {
+      "welcome" : "Bienvenu",
+      "english" : "Anglais",
+      "french" : "Français",
+      "alert" : "C'est moi!"
+   }
+}
