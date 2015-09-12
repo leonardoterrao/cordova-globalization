@@ -1,0 +1,23 @@
+{
+   "en" : {
+      "welcome" : "Welcome",
+      "english" : "English",
+      "french" : "French",
+      "alert" : "It's me!",
+      "portuguese" : "Portuguese"
+   },
+   "fr" : {
+      "welcome" : "Bienvenu",
+      "english" : "Anglais",
+      "french" : "Français",
+      "alert" : "C'est moi!",
+      "portuguese" : "Portugais"
+   },
+   "pt-BR" : {
+     "welcome" : "Bem vindo",
+     "english" : "Inglês",
+     "french" : "Francês",
+     "portuguese" : "Português",
+     "alert" : "Sou eu!"
+   }
+}
